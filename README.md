@@ -80,15 +80,13 @@ in test coverage</b>
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:prateekdubey053@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/prateek-dubey-1292931a3/">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/prateek-dubey-1292931a3/">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <a href="https://www.instagram.com/prateek_dubey_akki/">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
-  </a>
+  
 </p>
   
 
