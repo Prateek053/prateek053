@@ -70,7 +70,7 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
-
+![about-us](https://github.com/Prateek053/prateek053/assets/169148312/fed6c235-0dd5-420a-b98a-03903ed5c049)
 
 
 ## Contact
