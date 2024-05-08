@@ -70,9 +70,7 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
-## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
 
 
 ## Contact
