@@ -38,9 +38,9 @@
 ## 💻 My Projects 
 
 
-[Automated Hybrid Testing Framework Python](https://github.com/Prateek053/ecommerceapp): A comprehensive automated Pytest Hybrid testing framework developed using Selenium WebDriver and Python
+[E Commerce Appliction with Python](https://github.com/Prateek053/ecommerceapp): A comprehensive automated Pytest Hybrid testing framework developed using Selenium WebDriver and Python
 
-[Automated TestNG Testing Framework Java](https://github.com/Prateek053/OrangeHRM): A comprehensive TestNG testing framework developed using Selenium WebDriver and Java.
+[Orange HRM with TestNG Java](https://github.com/Prateek053/OrangeHRM): A comprehensive TestNG testing framework developed using Selenium WebDriver and Java.
 
 
 ## 💼 Technical Skills
