@@ -34,16 +34,6 @@
 - I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
 
 
-## 🥇 Achievements
-
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
-
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
-
 
 ## 💻 My Projects 
 
